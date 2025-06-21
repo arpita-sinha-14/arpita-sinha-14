@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arpita Sinha</h1>
-<h3 align="center">Frontend Developer | Engineering Student | Problem Solver</h3>
+<h1 align="center">Hi there 👋, I'm Arpita Sinha</h1>
+<h3 align="center">Aspiring Software Developer Engineer | Engineering Student | Creative Coder</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
@@ -7,80 +7,58 @@
 
 ---
 
-### 👩‍💻 Languages & Tools
-
-<div align="center">
-  
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=c" width="50"/><br><b>C</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50"/><br><b>C++</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=java" width="50"/><br><b>Java</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=js" width="50"/><br><b>JavaScript</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=html" width="50"/><br><b>HTML5</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=css" width="50"/><br><b>CSS3</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python" width="50"/><br><b>Python</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ts" width="50"/><br><b>TypeScript</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=vue" width="50"/><br><b>Vue.js</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=angular" width="50"/><br><b>Angular</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=agile&logoColor=white" height="25"/><br><b>Agile</b>
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=ScrumAlliance&logoColor=white" height="25"/><br><b>Scrum</b>
-    </td>
-  </tr>
-</table>
-
-</div>
+I am **ARPITA SINHA**, a frontend developer and B.Tech student from INDIA passionate about building modern and user-friendly web interfaces.  
+I love to create projects that are not only functional but also visually engaging.
 
 ---
 
-### ✨ What I’m Working On
-- Advanced reusable UI components (e.g., data tables, step forms)
-- Enhancing my knowledge in TypeScript and frontend architecture
-- Practicing DSA in C++, Java, and Python
+### 👩‍💻 Tech Stack
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280" />
+#### 💻 Programming Languages  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+#### 🌐 Frontend Technologies  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+#### ⚙️ Agile Tools & Practices  
+<p>
+  <img src="https://img.shields.io/badge/Agile-0277BD?style=for-the-badge&logo=agile&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 </p>
 
 ---
 
-### 📫 Let’s Connect
+### 📫 How to reach me?
+
 
 <p align="center">
   <a href="mailto:arpita.yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://github.com/arpita-sinha-14"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
 </p>
+---
+
+### 🚀 Currently Working On
+
+- 🔨 Advanced frontend UI components  
+- 🧠 Deepening TypeScript and framework knowledge  
+- 💡 Collaborative projects with agile practices  
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Frontend+Developer+%F0%9F%92%BB;Passionate+Learner+%F0%9F%92%AB;Always+Learning+New+Tech+%F0%9F%92%A1" />
-</p>
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
